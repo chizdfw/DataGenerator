@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+  <craft type="ground">
+    <make>ford</make>
+    <model>f-150</model>
+    <type>Light Truck</type>
+    <drive>Rear Wheel</drive>
+    <color>Black</color>
+    <performance>
+      <topspeed value="90" units="mph"/>
+      <cargo value="2000" units="lbs"/>
+      <passengers value="3" units="adult persons"/>
+    </performance>
+  </craft>  
+<craft type="ground">
+    <make>Toyota</make>
+    <model>Prius</model>
+    <drive>Front Wheel</drive>
+    <color>Dark Grey</color>
+    <type>hybrid sedan</type>
+    <performance>
+      <topspeed value="120" units="kph"/>
+      <cargo value="200" units="Kg"/>
+      <passengers value="5" units="adult persons"/>
+    </performance>
+  </craft>
+<craft type="ground">
+    <make>Suburu</make>
+    <model>Outback</model>
+    <drive>four wheel</drive>
+    <color>green</color>
+  <engine type="Internal Combustion"  />
+    <performance>
+      <topspeed value="90" units="mph"/>
+      <cargo value="500" units="lbs"/>
+      <passengers value="6" units="adult persons"/>
+    </performance>
+  </craft>
+<craft type="aircraft">
+    <make>Boeing</make>
+    <model>Boeing 777</model>
+  <engine type="turbofan jet" number="2" />
+    <color>silver</color>
+    <performance>
+      <topspeed value="490" units="mph"/>
+      <cargo value="60000" units="lbs"/>
+      <passengers value="90" units="adult persons"/>
+    </performance>
+  </craft>
+<craft type="watercraft">
+    <make>bass boat unlimited</make>
+    <model>123</model>
+    <drive>internal combustion prop</drive>
+    <color>silver</color>
+    <performance>
+      <topspeed value="12" units="knots"/>
+      <cargo value="300" units="lbs"/>
+      <passengers value="2" units="adult persons"/>
+    </performance>
+  </craft>
+</xml>

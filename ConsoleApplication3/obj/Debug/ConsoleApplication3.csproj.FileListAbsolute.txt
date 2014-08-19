@@ -1,0 +1,8 @@
+c:\users\chizd\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\chizd\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\chizd\Documents\Visual Studio 2012\Projects\FakeDataGenerator\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\chizd\Documents\Visual Studio 2012\Projects\FakeDataGenerator\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\chizd\Documents\Visual Studio 2012\Projects\FakeDataGenerator\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\chizd\Documents\Visual Studio 2012\Projects\FakeDataGenerator\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\chizd\Documents\Visual Studio 2012\Projects\FakeDataGenerator\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\chizd\Documents\Visual Studio 2012\Projects\FakeDataGenerator\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
